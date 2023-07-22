@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51977816425",
+    "project_id": "bookstore-98d25",
+    "storage_bucket": "bookstore-98d25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51977816425:android:c90ede8cd5bd05e53b55f8",
+        "android_client_info": {
+          "package_name": "com.haroon.bookstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51977816425-es6vqu04nuu32d0t8mbi0kqp17696psu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAya8mZQAxDrnaD8mcEkOoF97rfTS1j46E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51977816425-es6vqu04nuu32d0t8mbi0kqp17696psu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
