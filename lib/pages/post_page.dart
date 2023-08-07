@@ -34,7 +34,11 @@ class _PostPageState extends State<PostPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Todo App'),
+        title: const Text(
+          'Todo App',
+          // selectionColor: Colors.deepPurple,
+          style: TextStyle(color: Colors.deepPurple),
+        ),
         actions: [
           IconButton(
             onPressed: () {
